@@ -4,10 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="#MCMDLOGGER"><img src="https://badgen.net/static/MC/1.16.1/orange" alt="Minecraft"/></a>
-  <a href="#MCMDLOGGER"><img src="https://badgen.net/static/MC/1.16.2/orange" alt="Minecraft"/></a>
-  <a href="#MCMDLOGGER"><img src="https://badgen.net/static/MC/1.16.3/yellow" alt="Minecraft"/></a>
-  <a href="#MCMDLOGGER"><img src="https://badgen.net/static/MC/1.16.4/yellow" alt="Minecraft"/></a>
+  <a href="#MCMDLOGGER"><img src="https://badgen.net/static/MC/1.12.2/green" alt="Minecraft"/></a>
   <a href="#MCMDLOGGER"><img src="https://badgen.net/static/MC/1.16.5/green" alt="Minecraft"/></a>
 </p>
 <p align="center">
