@@ -1,4 +1,7 @@
-﻿# MCMDLOGGER FOR REALLYWORLD
+# Поддержка прекращена на неопределенный срок
+ReallyWorld обновил свою форму входа, что означает что этот инструмент более не актуален. Инструменты, которые использовались для работы этого логгера прекратили свою поддержку. Без них невозможно продолжать дальнейшее обновление этого инструмента.
+
+# MCMDLOGGER FOR REALLYWORLD
 <p align="center">
   <a href="https://github.com/tobyaddroc/minecrafters-need-food/releases/"><img src="https://img.shields.io/github/downloads/tobyaddroc/minecrafters-need-food/total.svg" alt="GitHub All Releases"/></a>
 </p>
